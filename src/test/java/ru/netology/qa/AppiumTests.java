@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-public class ChangeTest {
+public class AppiumTests {
 
     private AppiumDriver driver;
     private String textEmpty = " ";
